@@ -1,4 +1,4 @@
-#include <cs50.h> // adding cs50 library
+#include <cs50.h> // added cs50 library
 #include <stdio.h>
 
 int main(void)
